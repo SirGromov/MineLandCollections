@@ -1,4 +1,4 @@
-﻿package main;
+﻿package su.grom.minelandcollections;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package main;
+package su.grom.minelandcollections;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
