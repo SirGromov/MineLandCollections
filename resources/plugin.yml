@@ -1,0 +1,7 @@
+name: MinelandCollections
+version: 0.1r2
+main: su.grom.Main
+commands:
+ givecontent:
+  description: Giving Collection Content
+  usage: /givecontent
